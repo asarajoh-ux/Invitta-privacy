@@ -72,7 +72,7 @@
 
 <h2>10. Contact Us</h2>
 <p>If you have questions about this Privacy Policy or your data, please contact us at:</p>
-<p><strong>Email:</strong> <a href="mailto:support@invitta.com">support@invitta.com</a></p>
+<p><strong>Email:</strong> <a href="mailto:triomicsequine@gmailcom">triomicsequine@gmail.com</a></p>
 
 <div class="footer">
   <p>&copy; 2026 Invitta. All rights reserved.</p>
